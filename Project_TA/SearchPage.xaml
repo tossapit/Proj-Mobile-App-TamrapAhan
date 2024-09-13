@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project_TA.SearchPage"
+             Title="SearchPage" BackgroundColor="#f01e2b">
+    <Grid RowDefinitions="60,60,*" ColumnDefinitions="*,*" >
+        <Frame HeightRequest="40" Margin="20" Grid.Column="0" Grid.ColumnSpan="2" WidthRequest="290"
+           />
+        <Frame HeightRequest="35" Margin="20" Grid.Column="0" Grid.ColumnSpan="2" WidthRequest="285"
+           BackgroundColor="#f01e2b"/>
+        <Label Text="ค้นหาสูตร" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="Center"
+           FontSize="20" FontFamily="Prompt" FontAttributes="Bold" TextColor="White"/>
+        <ImageButton x:Name="Btn_back" Source="back.png" HeightRequest="40"
+                 WidthRequest="40" HorizontalOptions="Start" Margin="5,0,0,0"
+                     Clicked="Btn_back_Clicked"/>
+        <Border Grid.Row="1" Grid.ColumnSpan="2" BackgroundColor="White" HeightRequest="49"
+            WidthRequest="382"/>
+        <SearchBar Grid.Row="1" Placeholder="ค้นหาสูตร..." Margin="10" BackgroundColor="#f01e2b"
+               FontSize="16" FontFamily="Prompt" Grid.ColumnSpan="2" PlaceholderColor="White"
+               FontAttributes="Bold"/>
+    </Grid>
+</ContentPage>

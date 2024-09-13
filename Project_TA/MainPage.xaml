@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project_TA.MainPage" BackgroundColor="#f01e2b">
+
+    <Grid RowDefinitions="60,650,50"
+          ColumnDefinitions="*,*,*">
+        <Frame Grid.Row="10" Grid.Column="0" Grid.ColumnSpan="3" HeightRequest="40"
+               Margin="20,20,20,0" VerticalOptions="Start"/>
+        <ImageButton Source="home.png" Grid.Row="2"
+                     HeightRequest="35" 
+                     Margin="20,22,20,0" WidthRequest="50" VerticalOptions="Start"/>
+        <ImageButton x:Name="Btn_post" Source="add_box.png" Grid.Row="2" Grid.Column="1"
+                     HeightRequest="35" 
+                     Margin="20,22,20,0" WidthRequest="50"
+                     Clicked="Btn_post_Clicked" VerticalOptions="Start"/>
+        <ImageButton Source="profile.png" Grid.Row="2" Grid.Column="2"
+                     HeightRequest="35" 
+                     Margin="20,22,20,0" WidthRequest="50" Clicked="ImageButton_Clicked_ProfilePage"
+                     VerticalOptions="Start"/>
+        <Frame HeightRequest="45" WidthRequest="355" Grid.ColumnSpan="3"/>
+        <Button x:Name="Btn_search" HeightRequest="39" WidthRequest="349" Grid.ColumnSpan="3" BackgroundColor="#f01e2b"
+                Clicked="Btn_search_Clicked"/>
+        <Label Text="ค้นหาสูตร" Grid.ColumnSpan="3" HorizontalOptions="Center" VerticalOptions="Center"
+               FontSize="20" FontFamily="Prompt" FontAttributes="Bold" TextColor="White"/>
+        <Image Source="search.png" HeightRequest="35" Margin="0,0,40,0"/>
+        <ScrollView Grid.Row="1" Grid.RowSpan="1" Margin="20,0,0,0" Grid.ColumnSpan="3" BackgroundColor="#f01e2b">
+            <Grid RowDefinitions="50,50,50,45,*" ColumnDefinitions="*,*,*">
+                <Label Text="ประเภทอาหาร" TextColor="White" FontSize="27" FontAttributes="Bold"
+                       FontFamily="Prompt" Grid.ColumnSpan="2"/>
+                <Button Grid.Row="1" HeightRequest="40" WidthRequest="110" HorizontalOptions="Start"
+                        VerticalOptions="Start" Margin="0,0,0,500" BackgroundColor="White"
+                        Clicked="Button_Clicked_BoiledFood" />
+                <Label Text="อาหารต้ม" Grid.Row="1" HorizontalOptions="Center" FontFamily="Prompt"
+                       FontAttributes="Bold" Margin="20,7,0,0" TextColor="#f01e2b" FontSize="17"/>
+                <Image  Source="pot.png" Grid.Row="1" BackgroundColor="White" HeightRequest="25"
+                        VerticalOptions="Start" WidthRequest="40" HorizontalOptions="Start"
+                        Margin="0,6,0,0"/>
+                <Button Grid.Row="1" Grid.Column="1" HeightRequest="40" WidthRequest="120" 
+                        VerticalOptions="Start" Margin="0,0,10,500" BackgroundColor="White"
+                        Clicked="Button_Clicked_FriedFood"/>
+                <Label Text="อาหารทอด" Grid.Row="1" Grid.Column="1" HorizontalOptions="Center" FontFamily="Prompt"
+                       FontAttributes="Bold" Margin="30,7,0,0" TextColor="#f01e2b" FontSize="17"/>
+                <Image  Source="fryingpan.png" Grid.Row="1" Grid.Column="1" BackgroundColor="White" HeightRequest="28"
+                        VerticalOptions="Start" WidthRequest="38" HorizontalOptions="Start"
+                        Margin="0,6,0,0"/>
+                <Button Grid.Row="1" Grid.Column="2" HeightRequest="40" WidthRequest="110" 
+                        VerticalOptions="Start" Margin="0,0,10,500" BackgroundColor="White"
+                        Clicked="Button_Clicked_StirFryFood"/>
+                <Label Text="อาหารผัด" Grid.Row="1" Grid.Column="2" HorizontalOptions="Center" FontFamily="Prompt"
+                        FontAttributes="Bold" Margin="30,7,0,0" TextColor="#f01e2b" FontSize="17"/>
+                <Image  Source="cooking.png" Grid.Row="1" Grid.Column="2" BackgroundColor="White" HeightRequest="30"
+                        VerticalOptions="Start" WidthRequest="30" HorizontalOptions="Start"
+                        Margin="10,6,0,0"/>
+                <Button Grid.Row="2"  HeightRequest="40" WidthRequest="115" HorizontalOptions="Start"
+                        VerticalOptions="Start" Margin="0,0,0,500"
+                        BackgroundColor="White" Clicked="Button_Clicked_SteamedFood"/>
+                <Label Text="อาหารนึ่ง" Grid.Row="2" HorizontalOptions="Center" FontFamily="Prompt"
+                       FontAttributes="Bold" Margin="30,7,0,0" TextColor="#f01e2b" FontSize="17"/>
+                <Image  Source="stream.png" Grid.Row="2" BackgroundColor="White" HeightRequest="30"
+                        VerticalOptions="Start" WidthRequest="40" HorizontalOptions="Start"
+                        Margin="0,6,0,0"/>
+                <Button Grid.Row="2" Grid.Column="1" HeightRequest="40" WidthRequest="120" 
+                        VerticalOptions="Start"
+                        Margin="0,0,10,500" BackgroundColor="White"
+                        Clicked="Button_Clicked_GrilledFood"/>
+                <Label Text="อาหารย่าง" Grid.Row="2" Grid.Column="1" HorizontalOptions="Center" FontFamily="Prompt"
+                        FontAttributes="Bold" Margin="30,7,0,0" TextColor="#f01e2b" FontSize="17"/>
+                <Image  Source="grill.png" Grid.Row="2" Grid.Column="1" BackgroundColor="White" HeightRequest="32"
+                        VerticalOptions="Start" WidthRequest="41" HorizontalOptions="Start"
+                        Margin="0,6,0,0"/>
+                <Button Grid.Row="2" Grid.Column="2" HeightRequest="40" WidthRequest="90" 
+                        VerticalOptions="Start" Margin="0,0,30,500"
+                        BackgroundColor="White" Clicked="Button_Clicked_Salad"/>
+                <Label Text="สลัด" Grid.Row="2" Grid.Column="2" HorizontalOptions="Center" FontFamily="Prompt"
+                       FontAttributes="Bold" Margin="0,7,0,0" TextColor="#f01e2b" FontSize="17"/>
+                <Image  Source="salad.png" Grid.Row="2" Grid.Column="2" BackgroundColor="White" HeightRequest="30"
+                        VerticalOptions="Start" WidthRequest="30" HorizontalOptions="Start"
+                        Margin="10,6,0,0"/>
+                <Label Text="เมนูเเนะนำ" TextColor="White" FontSize="27" FontAttributes="Bold"
+                       FontFamily="Prompt" Grid.ColumnSpan="2" Grid.Row="3"/>
+                <CollectionView Grid.Row="4" Grid.ColumnSpan="3" ItemsSource="{Binding Recipes}"
+                                SelectedItem="{Binding FoodName}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid ColumnDefinitions="200,*">
+                                <Frame HeightRequest="210" WidthRequest="360" Grid.ColumnSpan="2"
+                                       Margin="0,0,0,10"/>
+                                <ImageButton x:Name="Btn_Food" Source="{Binding FoodImage}"
+                                             Grid.ColumnSpan="2"
+                                             BackgroundColor="Aqua" HeightRequest="200" WidthRequest="350"
+                                             HorizontalOptions="Start" Aspect="Fill"
+                                             Margin="11,0,0,8" CornerRadius="5"
+                                             />
+                                <Label Text="{Binding FoodName}" Grid.Column="1" HorizontalTextAlignment="End"
+                                       VerticalTextAlignment="End" Margin="0,0,21,21" FontSize="21" TextColor="#f01e2b"
+                                       FontFamily="Prompt" Grid.ColumnSpan="2"/>
+                                <Label Text="{Binding FoodName}" Grid.Column="1" HorizontalTextAlignment="End"
+                                       VerticalTextAlignment="End" Margin="0,0,22,21" FontSize="20" TextColor="White"
+                                       FontFamily="Prompt"  />
+
+
+                            </Grid>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+
+            </Grid>
+        </ScrollView>
+
+    </Grid>
+
+</ContentPage>

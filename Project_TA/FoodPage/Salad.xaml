@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project_TA.Salad"
+             Title="Salad" BackgroundColor="#f01e2b">
+    <Grid RowDefinitions="*,*,*" Margin="30" ColumnDefinitions="*,*,*">
+        <Label Text="สลัด" TextColor="White" FontSize="27" FontAttributes="Bold"
+       FontFamily="Prompt" Grid.ColumnSpan="3"/>
+        <Frame Grid.Row="2"  HeightRequest="40" VerticalOptions="End" Grid.ColumnSpan="3"/>
+        <ImageButton x:Name="Btn_home" Source="home.png" Grid.Row="2"
+                     HeightRequest="35" 
+                     WidthRequest="50" BackgroundColor="White" VerticalOptions="End"
+                     Clicked="Btn_home_Clicked"/>
+        <ImageButton x:Name="Btn_post" Source="add_box.png" Grid.Row="2" Grid.Column="1"
+                     HeightRequest="35" 
+                     WidthRequest="50" BackgroundColor="White" VerticalOptions="End"
+                     Clicked="Btn_post_Clicked"/>
+        <ImageButton x:Name="Btn_profile" Source="profile.png" Grid.Row="2" Grid.Column="2"
+                     HeightRequest="33" 
+                     WidthRequest="50" BackgroundColor="White" VerticalOptions="End"
+                     Clicked="Btn_profile_Clicked"/>
+    </Grid>
+</ContentPage>
