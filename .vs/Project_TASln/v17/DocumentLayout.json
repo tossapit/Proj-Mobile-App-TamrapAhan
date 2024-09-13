@@ -3,40 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\view\\Documents\\Project_TASln\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\services\\generatefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\services\\generatefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\project_ta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\project_ta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\post.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\post.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\foodpage\\boiledfood.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\foodpage\\boiledfood.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\post.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\post.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\mysearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\mysearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\mysearch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\mysearch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\services\\generatefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\services\\generatefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\models\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\models\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\post.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\post.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\post.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\post.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\mysearch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\mysearch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\mysearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\mysearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\foodpage\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,36 +63,24 @@
       "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\foodpage\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\project_ta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\project_ta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\foodpage\\stirfryfood.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\foodpage\\stirfryfood.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\foodpage\\stirfryfood.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -115,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\foodpage\\friedfood.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\foodpage\\boiledfood.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\foodpage\\boiledfood.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|c:\\users\\view\\documents\\project_tasln\\project_ta\\foodpage\\boiledfood.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{53D0BD3E-14E3-4D7D-AE86-27D5F36FFF44}|Project_TA\\Project_TA.csproj|solutionrelative:project_ta\\foodpage\\boiledfood.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -134,110 +134,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{f6c90d9a-1aa8-32e5-baac-467b7262213c}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GenerateFood.cs",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Services\\GenerateFood.cs",
-              "RelativeDocumentMoniker": "Project_TA\\Services\\GenerateFood.cs",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Services\\GenerateFood.cs",
-              "RelativeToolTip": "Project_TA\\Services\\GenerateFood.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAmwFIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:06:22.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Project_TA\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MainPage.xaml",
-              "RelativeToolTip": "Project_TA\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-04T09:18:14.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Recipes.cs",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Models\\Recipes.cs",
-              "RelativeDocumentMoniker": "Project_TA\\Models\\Recipes.cs",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Models\\Recipes.cs",
-              "RelativeToolTip": "Project_TA\\Models\\Recipes.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T08:50:16.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Post.xaml",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Post.xaml",
-              "RelativeDocumentMoniker": "Project_TA\\Post.xaml",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Post.xaml",
-              "RelativeToolTip": "Project_TA\\Post.xaml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-06T06:45:39.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Post.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Post.xaml.cs",
-              "RelativeDocumentMoniker": "Project_TA\\Post.xaml.cs",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Post.xaml.cs",
-              "RelativeToolTip": "Project_TA\\Post.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAApwDUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T19:02:58.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MySearch.xaml",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MySearch.xaml",
-              "RelativeDocumentMoniker": "Project_TA\\MySearch.xaml",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MySearch.xaml",
-              "RelativeToolTip": "Project_TA\\MySearch.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-06T11:31:18.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MySearch.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MySearch.xaml.cs",
-              "RelativeDocumentMoniker": "Project_TA\\MySearch.xaml.cs",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MySearch.xaml.cs",
-              "RelativeToolTip": "Project_TA\\MySearch.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T09:25:38.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProfilePage.xaml",
               "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\ProfilePage.xaml",
               "RelativeDocumentMoniker": "Project_TA\\ProfilePage.xaml",
@@ -245,12 +150,24 @@
               "RelativeToolTip": "Project_TA\\ProfilePage.xaml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-06T11:11:56.413Z",
+              "WhenOpened": "2024-05-06T11:11:56.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerateFood.cs",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Services\\GenerateFood.cs",
+              "RelativeDocumentMoniker": "Project_TA\\Services\\GenerateFood.cs",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Services\\GenerateFood.cs",
+              "RelativeToolTip": "Project_TA\\Services\\GenerateFood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:06:22.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "ProfilePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\ProfilePage.xaml.cs",
               "RelativeDocumentMoniker": "Project_TA\\ProfilePage.xaml.cs",
@@ -258,12 +175,35 @@
               "RelativeToolTip": "Project_TA\\ProfilePage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T18:59:16.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T18:59:16.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
+              "Title": "BoiledFood.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\BoiledFood.xaml.cs",
+              "RelativeDocumentMoniker": "Project_TA\\FoodPage\\BoiledFood.xaml.cs",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\BoiledFood.xaml.cs",
+              "RelativeToolTip": "Project_TA\\FoodPage\\BoiledFood.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:48:55.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Post.xaml",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Post.xaml",
+              "RelativeDocumentMoniker": "Project_TA\\Post.xaml",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Post.xaml",
+              "RelativeToolTip": "Project_TA\\Post.xaml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-06T06:45:39.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\App.xaml.cs",
               "RelativeDocumentMoniker": "Project_TA\\App.xaml.cs",
@@ -275,105 +215,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Project_TA\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MainPage.xaml.cs",
-              "RelativeToolTip": "Project_TA\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAJAAAA",
+              "DocumentIndex": 5,
+              "Title": "Recipes.cs",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Models\\Recipes.cs",
+              "RelativeDocumentMoniker": "Project_TA\\Models\\Recipes.cs",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Models\\Recipes.cs",
+              "RelativeToolTip": "Project_TA\\Models\\Recipes.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T14:32:12.985Z"
+              "WhenOpened": "2024-05-10T08:50:16.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DetailsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\DetailsPage.xaml.cs",
-              "RelativeDocumentMoniker": "Project_TA\\FoodPage\\DetailsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\DetailsPage.xaml.cs",
-              "RelativeToolTip": "Project_TA\\FoodPage\\DetailsPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:05:51.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DetailsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\DetailsPage.xaml",
-              "RelativeDocumentMoniker": "Project_TA\\FoodPage\\DetailsPage.xaml",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\DetailsPage.xaml",
-              "RelativeToolTip": "Project_TA\\FoodPage\\DetailsPage.xaml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBwAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-12T16:41:39.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "Project_TA\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MauiProgram.cs",
-              "RelativeToolTip": "Project_TA\\MauiProgram.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:17:58.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SearchPage.xaml",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\SearchPage.xaml",
-              "RelativeDocumentMoniker": "Project_TA\\SearchPage.xaml",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\SearchPage.xaml",
-              "RelativeToolTip": "Project_TA\\SearchPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-09T09:21:10.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\App.xaml",
-              "RelativeDocumentMoniker": "Project_TA\\App.xaml",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\App.xaml",
-              "RelativeToolTip": "Project_TA\\App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-04T14:59:38.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SearchPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\SearchPage.xaml.cs",
-              "RelativeDocumentMoniker": "Project_TA\\SearchPage.xaml.cs",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\SearchPage.xaml.cs",
-              "RelativeToolTip": "Project_TA\\SearchPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T09:21:26.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "StirFryFood.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\StirFryFood.xaml.cs",
-              "RelativeDocumentMoniker": "Project_TA\\FoodPage\\StirFryFood.xaml.cs",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\StirFryFood.xaml.cs",
-              "RelativeToolTip": "Project_TA\\FoodPage\\StirFryFood.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T07:49:12.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
               "Title": "Project_TA.csproj",
               "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Project_TA.csproj",
               "RelativeDocumentMoniker": "Project_TA\\Project_TA.csproj",
@@ -385,7 +239,151 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MySearch.xaml",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MySearch.xaml",
+              "RelativeDocumentMoniker": "Project_TA\\MySearch.xaml",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MySearch.xaml",
+              "RelativeToolTip": "Project_TA\\MySearch.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-06T11:31:18.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Post.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Post.xaml.cs",
+              "RelativeDocumentMoniker": "Project_TA\\Post.xaml.cs",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\Post.xaml.cs",
+              "RelativeToolTip": "Project_TA\\Post.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAApwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:02:58.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MySearch.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MySearch.xaml.cs",
+              "RelativeDocumentMoniker": "Project_TA\\MySearch.xaml.cs",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MySearch.xaml.cs",
+              "RelativeToolTip": "Project_TA\\MySearch.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:25:38.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Project_TA\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MainPage.xaml",
+              "RelativeToolTip": "Project_TA\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-04T09:18:14.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_TA\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MainPage.xaml.cs",
+              "RelativeToolTip": "Project_TA\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:32:12.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\DetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_TA\\FoodPage\\DetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\DetailsPage.xaml.cs",
+              "RelativeToolTip": "Project_TA\\FoodPage\\DetailsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:05:51.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\DetailsPage.xaml",
+              "RelativeDocumentMoniker": "Project_TA\\FoodPage\\DetailsPage.xaml",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\DetailsPage.xaml",
+              "RelativeToolTip": "Project_TA\\FoodPage\\DetailsPage.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T16:41:39.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Project_TA\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\MauiProgram.cs",
+              "RelativeToolTip": "Project_TA\\MauiProgram.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:17:58.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\SearchPage.xaml",
+              "RelativeDocumentMoniker": "Project_TA\\SearchPage.xaml",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\SearchPage.xaml",
+              "RelativeToolTip": "Project_TA\\SearchPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T09:21:10.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\App.xaml",
+              "RelativeDocumentMoniker": "Project_TA\\App.xaml",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\App.xaml",
+              "RelativeToolTip": "Project_TA\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-04T14:59:38.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SearchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\SearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "Project_TA\\SearchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\SearchPage.xaml.cs",
+              "RelativeToolTip": "Project_TA\\SearchPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:21:26.369Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "StirFryFood.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\StirFryFood.xaml.cs",
+              "RelativeDocumentMoniker": "Project_TA\\FoodPage\\StirFryFood.xaml.cs",
+              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\StirFryFood.xaml.cs",
+              "RelativeToolTip": "Project_TA\\FoodPage\\StirFryFood.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:49:12.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "StirFryFood.xaml",
               "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\StirFryFood.xaml",
               "RelativeDocumentMoniker": "Project_TA\\FoodPage\\StirFryFood.xaml",
@@ -393,12 +391,11 @@
               "RelativeToolTip": "Project_TA\\FoodPage\\StirFryFood.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-05T19:54:52.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T19:54:52.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "SteamedFood.xaml.cs",
               "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\SteamedFood.xaml.cs",
               "RelativeDocumentMoniker": "Project_TA\\FoodPage\\SteamedFood.xaml.cs",
@@ -410,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "SteamedFood.xaml",
               "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\SteamedFood.xaml",
               "RelativeDocumentMoniker": "Project_TA\\FoodPage\\SteamedFood.xaml",
@@ -418,12 +415,11 @@
               "RelativeToolTip": "Project_TA\\FoodPage\\SteamedFood.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-05T19:56:51.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T19:56:51.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Salad.xaml.cs",
               "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\Salad.xaml.cs",
               "RelativeDocumentMoniker": "Project_TA\\FoodPage\\Salad.xaml.cs",
@@ -435,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Salad.xaml",
               "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\Salad.xaml",
               "RelativeDocumentMoniker": "Project_TA\\FoodPage\\Salad.xaml",
@@ -443,12 +439,11 @@
               "RelativeToolTip": "Project_TA\\FoodPage\\Salad.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-05T20:00:52.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T20:00:52.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "GrilledFood.xaml.cs",
               "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\GrilledFood.xaml.cs",
               "RelativeDocumentMoniker": "Project_TA\\FoodPage\\GrilledFood.xaml.cs",
@@ -460,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "GrilledFood.xaml",
               "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\GrilledFood.xaml",
               "RelativeDocumentMoniker": "Project_TA\\FoodPage\\GrilledFood.xaml",
@@ -468,12 +463,11 @@
               "RelativeToolTip": "Project_TA\\FoodPage\\GrilledFood.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-05T19:59:24.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T19:59:24.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "FriedFood.xaml.cs",
               "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\FriedFood.xaml.cs",
               "RelativeDocumentMoniker": "Project_TA\\FoodPage\\FriedFood.xaml.cs",
@@ -485,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "FriedFood.xaml",
               "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\FriedFood.xaml",
               "RelativeDocumentMoniker": "Project_TA\\FoodPage\\FriedFood.xaml",
@@ -493,20 +487,7 @@
               "RelativeToolTip": "Project_TA\\FoodPage\\FriedFood.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-05T19:47:01.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "BoiledFood.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\BoiledFood.xaml.cs",
-              "RelativeDocumentMoniker": "Project_TA\\FoodPage\\BoiledFood.xaml.cs",
-              "ToolTip": "C:\\Users\\view\\Documents\\Project_TASln\\Project_TA\\FoodPage\\BoiledFood.xaml.cs",
-              "RelativeToolTip": "Project_TA\\FoodPage\\BoiledFood.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T07:48:55.107Z"
+              "WhenOpened": "2024-05-05T19:47:01.033Z"
             },
             {
               "$type": "Document",
@@ -518,8 +499,7 @@
               "RelativeToolTip": "Project_TA\\FoodPage\\BoiledFood.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-04T19:41:19.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T19:41:19.437Z"
             },
             {
               "$type": "Document",
@@ -532,6 +512,14 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-04T14:59:37.566Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
